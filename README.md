@@ -2,7 +2,7 @@
 
 **Slideways** est un jeu de stratégie local où les joueurs colorent des cases et déplacent des rangées pour aligner quatre symboles. Ce projet de **Resul Tektas** comprend un mode solo contre l'IA, un duel local et un mode spectateur.
 
-![Slideways — menu principal](screenshots/menu.png)
+![Slideways — menu principal](Capture d'écran 2026-10-13 052457.png)
 
 ## Captures d’écran
 
@@ -12,7 +12,7 @@ Depuis le menu, lance une partie, consulte les règles, ouvre les options ou rep
 
 ### Partie en cours
 
-![Slideways — partie en cours](screenshots/gameplay.png)
+![Slideways — partie en cours](Capture d'écran 2026-10-13 052551.png)
 
 ## Lancer le jeu
 
